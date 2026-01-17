@@ -1,0 +1,166 @@
+{
+  "restaurants": [
+    {
+      "name": "Freebirds World Burrito",
+      "cuisine": "Mexican",
+      "type": "Fast Casual",
+      "address": "879 Embarcadero del Norte",
+      "lat": 34.4132106,
+      "lon": -119.85557
+    },
+    {
+      "name": "Woodstock's Pizza",
+      "cuisine": "Pizza",
+      "type": "Restaurant",
+      "address": "6547 Pardall Rd",
+      "lat": 34.4123,
+      "lon": -119.8589
+    },
+    {
+      "name": "The Habit Burger Grill",
+      "cuisine": "Burgers",
+      "type": "Fast Casual",
+      "address": "888 Embarcadero del Norte",
+      "lat": 34.4131,
+      "lon": -119.8584
+    },
+    {
+      "name": "Hana Kitchen",
+      "cuisine": "Japanese",
+      "type": "Restaurant",
+      "address": "6560 Pardall Rd",
+      "lat": 34.4124,
+      "lon": -119.8590
+    },
+    {
+      "name": "Caje",
+      "cuisine": "Cafe/Breakfast",
+      "type": "Cafe",
+      "address": "6533 Pardall Rd",
+      "lat": 34.4122,
+      "lon": -119.8588
+    },
+    {
+      "name": "I.V. Drip",
+      "cuisine": "Coffee/Cafe",
+      "type": "Cafe",
+      "address": "6555 Pardall Rd",
+      "lat": 34.4123,
+      "lon": -119.8589
+    },
+    {
+      "name": "Naan Stop",
+      "cuisine": "Indian",
+      "type": "Fast Casual",
+      "address": "868 Embarcadero del Norte",
+      "lat": 34.4130,
+      "lon": -119.8583
+    },
+    {
+    "name": "PokiRito",
+    "cuisine": "Hawaiian",
+    "type": "Poke Bowl",
+    "address": "6530 Seville Road",
+    "lat": 34.4118967,
+    "lon": -119.8548208
+    },
+    {
+    "name": "L&L Hawaiian Barbecue",
+    "cuisine": "Hawaiian",
+    "type": "Poke Bowl",
+    "address": "7127 Hollister Avenue",
+    "lat": 34.4283741,
+    "lon": -119.8765902
+    },
+    
+    {
+    "name": "Phamous Café",
+    "cuisine": "Vietnaemse",
+    "type": "Fast Food",
+    "address": "7127 Hollister Avenue",
+    "lat": 34.428250135856246, 
+    "lon": -119.87644770408842
+    },
+    {
+    "name": "On The Alley",
+    "cuisine": "Seafood",
+    "type": "Restaurant",
+    "address": "7038 Marketplace Drive",
+    "lat": 34.4295206,
+    "lon": -119.87258
+    },
+    {
+    "name": "Santa Barbara Fish Market",
+    "cuisine": "Seafood",
+    "type": "Restaurant",
+    "address": "7127 Hollister Avenue",
+    "lat": 34.4286445,
+    "lon": -119.876674
+    },
+    {
+      "name": "Antojitos La Paloma",
+      "cuisine": "Mexican",
+      "type": "Fast Casual",
+      "address": "6543 Pardall Road",
+      "lat": 34.412957,
+      "lon": -119.8557363
+    },
+    {
+      "name": "Asia 101",
+      "cuisine": "Asian Fusion",
+      "type": "Fast Casual",
+      "address": "903 Embarcadero del Norte",
+      "lat": 34.4129208,
+      "lon": -119.8556294
+    },
+    {
+      "name": "Cajun Kitchen Cafe",
+      "cuisine": "Breakfast / Cajun",
+      "type": "Restaurant",
+      "address": "6831 Hollister Avenue",
+      "lat": 34.4299959,
+      "lon": -119.8670376
+    },
+    {
+      "name": "Chili's",
+      "cuisine": "American",
+      "type": "Fast Casual",
+      "address": "6950 Marketplace Drive",
+      "lat": 34.4297161,
+      "lon": -119.8706223
+    },
+    {
+      "name": "Chop Chinese Food",
+      "cuisine": "Chinese",
+      "type": "Fast Casual",
+      "address": "966 Embarcadero del Mar",
+      "lat": 34.4117012,
+      "lon": -119.8568484
+    },
+    {
+      "name": "Elubia's Kitchen",
+      "cuisine": "Mexican",
+      "type": "Fast Casual",
+      "address": "6578 Trigo Road",
+      "lat": 34.4113408,
+      "lon": -119.8577174
+    },
+    {
+      "name": "Hummus Republic",
+      "cuisine": "Mediterranean",
+      "type": "Fast Casual",
+      "address": "6546 Pardall Road",
+      "lat": 34.4132785,
+      "lon": -119.8559221
+    },
+    {
+      "name": "Jane",
+      "cuisine": "American",
+      "type": "Restaurant",
+      "address": "6940 Marketplace Drive",
+      "lat": 34.4295388,
+      "lon": -119.8702396
+    }   
+  ]
+}
+

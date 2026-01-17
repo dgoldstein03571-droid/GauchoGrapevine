@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="vieport" content="width=device-width, intitial-scale=1.0">
+        <title>Gaucho Grapevine</title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+
+
+
+
+    <body>
+        <div class="iframe-container">
+            <iframe id="mapFrame" 
+            src="https://www.openstreetmap.org/export/embed.html?bbox=-119.87532377243043%2C34.406006770455306%2C-119.8490595817566%2C34.42077038984129&amp;layer=mapnik" 
+            style="width: 100%; aspect-ratio: 16 / 9; border: none;"></iframe>
+            <br/>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search for food">
+            </div>
+        </div>
+        <script src = "search.js"></script>
+        <!--<script src="search_geojson.js"></script>-->
+    </body>
+</html>
