@@ -160,7 +160,87 @@
       "address": "6940 Marketplace Drive",
       "lat": 34.4295388,
       "lon": -119.8702396
-    }   
+    },
+    {
+      "name": "Kaiju",
+      "cuisine": "Japanese",
+      "type": "Restaurant",
+      "address": "901 Embarcadero del Mar",
+      "lat": 34.4128217,
+      "lon": -119.8572315
+    } ,
+    {
+      "name": "Lao Wang",
+      "cuisine": "Chinese",
+      "type": "Fast Casual",
+      "address": "6580 Trigo Road",
+      "lat": 34.4115003,
+      "lon": -119.8579206
+    },
+    {
+      "name": "Maria's Tacos",
+      "cuisine": "Mexican",
+      "type": "Fast Casual",
+      "address": "6545 Pardall Road",
+      "lat": 34.4129596,
+      "lon": -119.8557927
+    },
+    {
+      "name": "Rusty's Pizza Parlor",
+      "cuisine": "American",
+      "type": "Fast Casual",
+      "address": "6583 Pardall Road",
+      "lat": 34.4128728,
+      "lon": -119.8578199
+    },
+    {
+      "name": "Saigon Noodle House",
+      "cuisine": "Vietnamese",
+      "type": "Fast Casual",
+      "address": "6831 Hollister Avenue",
+      "lat": 34.4293253,
+      "lon": -119.8670536
+    },
+    {
+      "name": "Su's Bowl",
+      "cuisine": "Chinese",
+      "type": "Fast Casual",
+      "address": "901 Embarcadero del Mar",
+      "lat": 34.4129906,
+      "lon": -119.8574343
+    },
+    {
+      "name": "Teddy Rice",
+      "cuisine": "Asian Fusion",
+      "type": "Fast Casual",
+      "address": "966 Embarcadero del Mar",
+      "lat": 34.4118312,
+      "lon": -119.8568476
+    },
+    {
+      "name": "Yetz's Bagels",
+      "cuisine": "American",
+      "type": "Fast Casual",
+      "address": "901 Embarcadero del Mar",
+      "lat": 34.4128864,
+      "lon": -119.8572289
+    },
+    {
+      "name": "Yetz's Deli",
+      "cuisine": "American",
+      "type": "Fast Casual",
+      "address": "901 Embarcadero del Mar",
+      "lat": 34.412989,
+      "lon": -119.8572169
+    },
+    {
+      "name": "Zocalo",
+      "cuisine": "Mexican",
+      "type": "Fast Casual",
+      "address": "901 Embarcadero del Mar",
+      "lat": 34.4129879,
+      "lon": -119.8573232
+    }    
   ]
 }
 
