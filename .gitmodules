@@ -1,0 +1,3 @@
+[submodule "libs/goelp"]
+	path = libs/goelp
+	url = https://github.com/johnbalvin/goelp.git
