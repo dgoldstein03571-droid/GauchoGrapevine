@@ -22,7 +22,7 @@
         data,  err := client.GetFromYelpBizURL(yelpBizURL)
         if err != nil {
             log.Println("test:2 -> err: ", err)
-            continue
+            return
         }
         if err := data.SetImages(client.ProxyURL); err != nil {
             log.Println("test:3 -> err: ", err)
