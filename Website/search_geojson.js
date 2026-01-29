@@ -1,3 +1,5 @@
+// none of this code is used in the website
+
 const searchInput = document.getElementById('searchInput');
 const mapIframe = document.querySelector('iframe');
 
