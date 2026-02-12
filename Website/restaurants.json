@@ -13,56 +13,48 @@
       "cuisine": "Pizza",
       "type": "Restaurant",
       "address": "6547 Pardall Rd",
-      "lat": 34.4123,
-      "lon": -119.8589
+      "lat": 34.412334036319635,
+      "lon": -119.85519539436072
     },
     {
       "name": "The Habit Burger Grill",
       "cuisine": "Burgers",
       "type": "Fast Casual",
       "address": "888 Embarcadero del Norte",
-      "lat": 34.4131,
-      "lon": -119.8584
+      "lat": 34.413217, 
+      "lon": -119.855103
     },
     {
       "name": "Hana Kitchen",
       "cuisine": "Japanese",
       "type": "Restaurant",
       "address": "6560 Pardall Rd",
-      "lat": 34.4124,
-      "lon": -119.8590
+      "lat": 34.41328142726169,
+      "lon": -119.8564941824071
     },
     {
       "name": "Caje",
       "cuisine": "Cafe/Breakfast",
       "type": "Cafe",
       "address": "6533 Pardall Rd",
-      "lat": 34.4122,
-      "lon": -119.8588
+      "lat": 34.41225485112163, 
+      "lon": -119.855228875013
     },
     {
       "name": "I.V. Drip",
       "cuisine": "Coffee/Cafe",
       "type": "Cafe",
       "address": "6555 Pardall Rd",
-      "lat": 34.4123,
-      "lon": -119.8589
+      "lat": 34.41404102349168,
+      "lon": -119.85566898552626
     },
     {
       "name": "Naan Stop",
       "cuisine": "Indian",
       "type": "Fast Casual",
       "address": "868 Embarcadero del Norte",
-      "lat": 34.4130,
-      "lon": -119.8583
-    },
-    {
-    "name": "PokiRito",
-    "cuisine": "Hawaiian",
-    "type": "Poke Bowl",
-    "address": "6530 Seville Road",
-    "lat": 34.4118967,
-    "lon": -119.8548208
+      "lat": 34.41212918097768, 
+      "lon": -119.85644146164617
     },
     {
     "name": "L&L Hawaiian Barbecue",
@@ -72,7 +64,6 @@
     "lat": 34.4283741,
     "lon": -119.8765902
     },
-    
     {
     "name": "Phamous Café",
     "cuisine": "Vietnaemse",
