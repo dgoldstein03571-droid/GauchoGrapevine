@@ -177,6 +177,14 @@
       "lon": -119.8557927
     },
     {
+      "name": "Lily's Taqueria",
+      "cuisine": "Mexican",
+      "type": "Fast Casual",
+      "address": "Storke Road",
+      "lat": 34.42843604248187, 
+      "lon": -119.86904561384091
+    },
+    {
       "name": "Rusty's Pizza Parlor",
       "cuisine": "American",
       "type": "Fast Casual",
@@ -233,6 +241,46 @@
       "lon": -119.8573232
     },
     {
+      "name": "McDonald's",
+      "cuisine": "American",
+      "type": "Fast Food",
+      "address": "6900 Market Pl Dr",
+      "lat": 34.42903678548256, 
+      "lon": -119.8701876791049
+    },
+    {
+      "name": "Wingstop",
+      "cuisine": "Wings",
+      "type": "Fast Casual",
+      "address": "888 Embarcadero del Norte",
+      "lat": 34.41332792480365,  
+      "lon": -119.85516543226132
+    },
+    {
+      "name": "Subway",
+      "cuisine": "Sandwiches",
+      "type": "Fast Food",
+      "address": "6831 Hollister Ave",
+      "lat": 34.42947049924471,  
+      "lon": -119.86708512043887
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "cuisine": "Mexican",
+      "type": "Fast Casual",
+      "address": "270 Storke Rd",
+      "lat": 34.4291801513034, 
+      "lon": -119.86936154171947
+    },
+    {
+      "name": "Jack in the Box",
+      "cuisine": "American",
+      "type": "Fast Food",
+      "address": "6875 Hollister Ave",
+      "lat": 34.4299161103027, 
+      "lon": -119.86882469762428
+    },
+    {
       "name": "Costco",
       "cuisine": "N/A",
       "type": "Supermarket",
@@ -272,6 +320,14 @@
       "lat": 34.44228868462433, 
       "lon": -119.83227425151252
     },
+    { 
+      "name": "Smart & Final",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "7090 Hollister Ave",
+      "lat": 34.430847271342415, 
+      "lon": -119.87476786457619
+    },
     {
       "name": "Isla Vista Food Co-op",
       "cuisine": "N/A",
@@ -285,9 +341,17 @@
       "cuisine": "N/A",
       "type": "Supermarket",
       "address": "939 Embarcadero del Mar",
-      "lat": 34.41225485112163,
-      "lon": -119.855228875013
+      "lat": 34.41233694313608, 
+      "lon": -119.85737009039116
       
+    },
+    {
+      "name": "International Food Market",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "6551 Trigo Road",
+      "lat": 34.411009511352425,   
+      "lon": -119.85709834686945
     }    
   ]
 }
