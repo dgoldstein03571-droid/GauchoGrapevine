@@ -239,6 +239,55 @@
       "address": "7095 Market Pl Dr",
       "lat": 34.42836449905795, 
       "lon": -119.87434399200572
+    },
+    {
+      "name": "Trader Joe's",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "5767 Calle Real",
+      "lat": 34.44080925951445, 
+      "lon": -119.82501875878094
+    },
+    {
+      "name": "Whole Foods Market",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "3761 State St",
+      "lat": 34.43940087432299,
+      "lon":  -119.74538537905522
+    },
+    {
+      "name": "Albertsons",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "7127 Hollister Ave",
+      "lat": 34.42783451231144, 
+      "lon": -119.87640238546253
+    },
+    {
+      "name": "Sprouts Farmers Market",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "175 N Fairview Ave",
+      "lat": 34.44228868462433, 
+      "lon": -119.83227425151252
+    },
+    {
+      "name": "Isla Vista Food Co-op",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "6575 Seville Rd",
+      "lat": 34.41162396953164,
+      "lon": -119.85768375446067
+    },
+    {
+      "name": "Isla Vista Market",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "939 Embarcadero del Mar",
+      "lat": 34.41225485112163,
+      "lon": -119.855228875013
+      
     }    
   ]
 }
