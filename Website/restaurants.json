@@ -231,6 +231,14 @@
       "address": "901 Embarcadero del Mar",
       "lat": 34.4129879,
       "lon": -119.8573232
+    },
+    {
+      "name": "Costco",
+      "cuisine": "N/A",
+      "type": "Supermarket",
+      "address": "7095 Market Pl Dr",
+      "lat": 34.42836449905795, 
+      "lon": -119.87434399200572
     }    
   ]
 }
